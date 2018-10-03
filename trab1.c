@@ -255,4 +255,6 @@ int main(){
   checa_lista();
   reduz_lista();
   fim();
+  
+  return 0;
 }
