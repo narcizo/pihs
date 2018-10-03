@@ -23,7 +23,7 @@ char msgerro3[] = "\nFecha Parentese em Excesso!\n";
 char msgerro4[] = "\nFunção Inexistente!\n";
 char msgerro5[] = "\nFormato Numérico Incorreto!\n";
 char msgerro6[] = "\nFalta Operador Após Número!\n";
-
+char msgerro7[] = "\nFatal error: Buffer Overflow!\n";
 int abertura();
 int le_expressao();
 void fim();
